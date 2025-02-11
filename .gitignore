@@ -1,0 +1,23 @@
+# Python
+__pycache__/      # Compiled Python files
+*.pyc             # Bytecode files
+*.pyo             # Optimized bytecode files
+venv/             # Virtual environment
+.env              # Environment variables file
+
+# Node.js
+node_modules/     # Dependency directory
+npm-debug.log     # npm debug log
+yarn-error.log    # Yarn error log
+
+# Solidity (Hardhat/Foundry)
+artifacts/        # Compiled contract artifacts
+cache/            # Hardhat/Foundry cache
+*.solc.json       # Solidity compiler output
+*.tsbuildinfo     # TypeScript build cache
+
+# System files
+.DS_Store         # macOS system file
+Thumbs.db         # Windows thumbnail cache
+.idea/            # JetBrains IDE settings
+.vscode/          # VS Code workspace settings
